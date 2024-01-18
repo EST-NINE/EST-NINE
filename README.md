@@ -3,7 +3,7 @@
 - 🌱 I'm learning GoLang by myself and also learning C and java at school
 ### I am also an NCUHOMER working for NCUHOME as a Backend Engineer
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EST-NINE&show_icons=true&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ESt-NINE&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EST-NINE&theme=react)
 
 ## Always use
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
