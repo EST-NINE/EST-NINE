@@ -1,22 +1,36 @@
 ### Hi there 👋 I'm EST-NINE from NanChang University
-- 🔭 I’m currently working on several back-end projects with GoLang
-- 🌱 I'm learning GoLang by myself and also learning C and java at school
+- 🔭 I’m currently working on several back-end projects with GoLang and Java
+- 🌱 I'm learning Java and GoLang by myself
 ### I am also an NCUHOMER working for NCUHOME as a Backend Engineer
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EST-NINE&show_icons=true&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EST-NINE&theme=react)
 
 ## Always use
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ### Learning and using
 <div><p align="">
-  <img src="https://skillicons.dev/icons?i=go,c,java,html,css,js,git,mysql,redis,mongodb,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,java,c,html,css,js,git,mysql,redis,mongodb,docker&theme=dark" />
 </p></div>  
 
 
 <!--
-**EST-NINE/EST-NINE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**EST-NINE/EST-NINE** is a ✨ _special_ ✨ repository beel.app/api/cards/profile-details?username=EST-NINE&theme=react)
+
+## Always use
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+### Learning and using
+<div><p align="">
+  <img src="https://skillicons.dev/icons?i=go,java,c,html,css,js,git,mysql,redis,mongodb,docker&theme=dark" />
+</p></div>  
+
+
+<!--cause its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
