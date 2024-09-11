@@ -1,21 +1,22 @@
-### Hi there 👋 I'm EST-NINE from NanChang University
+## Hi there 👋 I'm EST-NINE from NanChang University
 - 🔭 I’m currently working on several back-end projects with GoLang and Java
 - 🌱 I'm learning Java and GoLang by myself
-- ✨ Aiming to enjoy coding and animation in remaining life
+- ✨ Aiming to enjoy coding and animation in my remaining life
 
-### I am also an NCUHOMER working for NCUHOME as a Backend Engineer
-<p align="left">
-<img alt="ouuan's github stats" height='230' width='300' src="https://github-readme-stats.vercel.app/api/top-langs/?username=EST-NINE&theme=dark">
-<img alt="ouuan's github stats" height='230' width='500' src="https://github-readme-stats.vercel.app/api?username=EST-NINE&show_icons=true&include_all_commits=true&theme=dark">
-</p>
+## I am also an NCUHOMER working for NCUHOME as a Backend Engineer
 
+## My Github Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EST-NINE&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EST-NINE&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EST-NINE&theme=github_dark&utcOffset=8)
 
 ## Always use
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![GoLang](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-### Languages and Tools
+
+## Languages and Tools
 <div><p align="">
   <img src="https://skillicons.dev/icons?i=java,go,mysql,redis,mongodb,docker,html,css,js,vue&theme=dark" />
 </p></div>  
