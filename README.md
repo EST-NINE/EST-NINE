@@ -1,14 +1,11 @@
-## Hi there 👋 I'm EST-NINE from NanChang University
+## Hi there, I'm EST-NINE from NanChang University👋
+
+## About me
+
 - 🔭 I’m currently working on several back-end projects with GoLang and Java
-- 🌱 I'm learning Java and GoLang by myself
+- 🧳 I am an NCUHOMER working for NCUHOME as a Backend Engineer
 - ✨ Aiming to enjoy coding and animation in my remaining life
 
-## I am also an NCUHOMER working for NCUHOME as a Backend Engineer
-
-## My Github Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EST-NINE&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EST-NINE&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EST-NINE&theme=github_dark&utcOffset=8)
 
 ## Always use
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -18,7 +15,7 @@
 
 ## Languages and Tools
 <div><p align="">
-  <img src="https://skillicons.dev/icons?i=java,go,mysql,redis,mongodb,docker,html,css,js,vue&theme=dark" />
+ <img src="https://skillicons.dev/icons?i=go,java,vue,git,docker,mysql,redis,mongodb&theme=dark" />
 </p></div>  
 
 
