@@ -2,9 +2,9 @@
 
 ## About me
 
-- 🔭 I’m currently working on several back-end projects with GoLang and Java
-- 🧳 I am an NCUHOMER working for NCUHOME as a Backend Engineer
-- ✨ Aiming to enjoy coding and animation in my remaining life
+- 🧑‍💻 I’m currently working on several back-end projects with GoLang and Java
+- 💡 I am an NCUHOMER working for <a href="https://github.com/ncuhome">@ncuhome</a> as a Backend Engineer
+- ❤️ Aiming to enjoy coding and animation in my remaining life
 
 
 ## Always use
