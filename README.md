@@ -15,8 +15,9 @@
 
 ## Languages and Tools
 <div><p align="">
- <img src="https://skillicons.dev/icons?i=go,java,vue,git,docker,mysql,redis,mongodb&theme=dark" />
+ <img src="https://skillicons.dev/icons?i=java,go,vue,git,docker,mysql,redis,mongodb&theme=dark" />
 </p></div>  
+
 
 
 <!--
@@ -34,4 +35,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=EST-NINE&show_icons=true&count_private=true&theme=jolly&icon_color=5CBDD8&bg_color=15,123175,5B2749,777777&hide_title=true&hide_border=true">
+
 -->
