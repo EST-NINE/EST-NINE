@@ -1,11 +1,13 @@
 ## Hi there, I'm EST-NINE from NanChang University👋
 
-## About me
 
-- 🧑‍💻 I’m currently working on several back-end projects with Java and GoLang
-- 💡 I am an NCUHOMER working for <a href="https://github.com/ncuhome">@ncuhome</a> as a Backend Engineer
-- ✨ First Prize of QiNiu Cloud 1024 Competition, <a href ="https://www.qiniu.com/activity/detail/66cfe17084a4441c29b08be9#list-of-winners">Official Website</a>, <a href ="https://github.com/Team-DuiDuiDui/GeniusRank">Project Address</a>
-- ❤️ Aiming to enjoy coding and animation in my remaining life
+## About me
+- 🧑‍💻 I’m currently working on several back-end projects with Java and GoLang.
+- 💡 I’m an NCUHOMER working for <a href="https://github.com/ncuhome">@ncuhome</a> as a Backend Engineer.
+- ✨ The First Prize in QiNiu Cloud 1024 Competition in 2024, <a href ="https://www.qiniu.com/activity/detail/66cfe17084a4441c29b08be9#list-of-winners">Official Website</a>, <a href ="https://github.com/Team-DuiDuiDui/GeniusRank">Project Address</a>.
+- 🧩 I'm more than glad to explore knowledge related to back-end and actively participate in open-source projects.
+- ❤️ Aiming to enjoy coding and animation in my remaining life.
+
 
 ## Always use
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -13,11 +15,11 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
+
 ## Languages and Tools
 <div><p align="">
  <img src="https://skillicons.dev/icons?i=java,go,vue,mysql,redis,mongodb,git,docker&theme=dark" />
 </p></div>  
-
 
 
 <!--
