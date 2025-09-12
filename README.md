@@ -4,7 +4,7 @@
 ## About me
 - 🧑‍💻 I’m currently working on several back-end projects with Java and GoLang.
 - 💡 I’m an NCUHOMER working for <a href="https://github.com/ncuhome">@ncuhome</a> as a Backend Engineer.
-- ✨ The First Prize in QiNiu Cloud 1024 Competition in 2024, <a href ="https://www.qiniu.com/activity/detail/66cfe17084a4441c29b08be9#list-of-winners">Competition Official Website</a>, <a href ="https://github.com/Team-DuiDuiDui/GeniusRank">Project Address</a>.
+- ✨ The First Prize in QiNiu Cloud 1024 Competition in 2024, <a href ="https://www.qiniu.com/activity/detail/66cfe17084a4441c29b08be9#list-of-winners">Competition Official Website</a>, <a href ="https://www.bilibili.com/video/BV1KkzCYrEoc">Final video</a>, <a href ="https://github.com/Team-DuiDuiDui/GeniusRank">Project Address</a>.
 - 🧩 I'm more than happy to actively participate in open-source projects and discuss knowledge related to back-end with others.
 - ❤️ Aiming to enjoy coding and animation in my remaining life.
 
