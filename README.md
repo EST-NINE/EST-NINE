@@ -2,8 +2,9 @@
 
 
 ## About me
-- 🧑‍💻 I’m currently working on several back-end projects with Java and GoLang.
-- 💡 I’m an NCUHOMER working for <a href="https://github.com/ncuhome">@ncuhome</a> as a Backend Engineer.
+- 🧑‍💻 I’m an NCUHOMER working for <a href="https://github.com/ncuhome">@ncuhome</a> as a Backend Engineer.
+- 🏢 I'm currently working as a Java Backend Developer at <a href="https://www.hello-inc.com/index.html">@HelloBike 哈啰</a>.
+- 💡 I’m currently working on several back-end projects with Java and GoLang.
 - ✨ The First Prize in QiNiu Cloud 1024 Competition in 2024, <a href ="https://www.bilibili.com/video/BV17AzgYFEAX">Final video</a>, <a href ="https://github.com/Team-DuiDuiDui/GeniusRank">Project Address</a>.
 - 🧩 I'm more than happy to actively participate in open-source projects and discuss knowledge related to back-end with others.
 - ❤️ Aiming to enjoy coding and animation in my remaining life.
