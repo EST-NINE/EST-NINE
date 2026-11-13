@@ -1,26 +1,30 @@
-## Hi there, I'm EST-NINE from NanChang University👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=24&color=0078D7&center=true&pause=100000&width=600&lines=Hi+there👋,+I'm+EST-NINE!" alt="Hi"/>
+</div>
 
 
-## About me
-- 🧑‍💻 I’m an NCUHOMER working for <a href="https://github.com/ncuhome">@ncuhome</a> as a Backend Engineer.
-- 🏢 I'm currently working as a Java Backend Developer at <a href="https://www.hello-inc.com/index.html">@HelloBike 哈啰</a>.
-- 💡 I’m currently working on several back-end projects with Java and GoLang.
-- ✨ The First Prize in QiNiu Cloud 1024 Competition in 2024, <a href ="https://www.bilibili.com/video/BV17AzgYFEAX">Final video</a>, <a href ="https://github.com/Team-DuiDuiDui/GeniusRank">Project Address</a>.
-- 🧩 I'm more than happy to actively participate in open-source projects and discuss knowledge related to back-end with others.
-- ❤️ Aiming to enjoy coding and animation in my remaining life.
+### 👋 About Me
+
+- 💡 I’m a full-stack engineer actively building projects, with a deep interest in AI engineering.
+- 🧩 I’m enthusiastic about contributing to open-source projects and exchanging ideas on software development.
+- 🏆 First Prize, Qiniu Cloud 1024 Challenge 2024 | <a href="https://www.bilibili.com/video/BV17AzgYFEAX">Final Video</a> | <a href="https://github.com/Team-DuiDuiDui/GeniusRank">Project Repository</a>
+- ✨ Striving to keep enjoying coding and animation.
 
 
-## Always use
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![GoLang](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+### 💼 Work Experience
+
+- 2023.09~2025.09 <a href="https://github.com/ncuhome">@NCUHOME | 家园工作室</a>, Core Developer
+  Responsible for backend development and stable operation of the <a href="https://home.ncu.edu.cn/products">campus app</a>, including feature delivery, bug fixes and service maintenance.
+- 2026.01~2026.06 <a href="https://www.hello-inc.com/index.html">@HelloBike | 哈啰</a>, Java Backend Development Intern, Two-Wheeler Mobility Division
+  Participated in backend feature development and iterative optimization for mobility business systems.
 
 
-## Languages and Tools
-<div><p align="">
- <img src="https://skillicons.dev/icons?i=java,go,vue,mysql,redis,mongodb,git,docker&theme=dark" />
-</p></div>  
+
+### 🛠️ Languages & Tools
+<p align="center">
+ <img src="https://skillicons.dev/icons?i=java,spring,go,python,vue,mysql,redis,mongodb,linux,git,docker&theme=dark" />
+</p>
+
 
 
 <!--
