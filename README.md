@@ -22,7 +22,7 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
- <img src="https://skillicons.dev/icons?i=java,spring,go,python,vue,mysql,redis,mongodb,linux,git,docker&theme=dark" />
+ <img src="https://skillicons.dev/icons?i=java,spring,go,python,vue,react,mysql,redis,mongodb,linux,git,docker&theme=dark" />
 </p>
 
 
